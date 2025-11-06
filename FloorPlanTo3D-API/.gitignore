@@ -1,0 +1,2 @@
+# Ignore large model weights file that exceeds GitHub's 100MB limit
+FloorPlanTo3D-API/weights/maskrcnn_15_epochs.h5
